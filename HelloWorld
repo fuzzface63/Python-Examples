@@ -1,0 +1,5 @@
+# Glenn Johnson
+# CISP 300
+# September 3, 2023
+# Assignment #1 - Hello world
+print("Hello World")
